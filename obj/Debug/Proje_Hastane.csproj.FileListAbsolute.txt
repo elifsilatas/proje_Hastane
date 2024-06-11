@@ -1,0 +1,35 @@
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.AssemblyReference.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.Form1.resources
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.AssemblyReference.cache
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBilgiDuzenle.resources
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorBilgiDuzenle.resources
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorDetay.resources
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorGiris.resources
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.FrmGirisler.resources
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaDetay.resources
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaGiris.resources
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaKayit.resources
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBrans.resources
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorPaneli.resources
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDuyurular.resources
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.FrmRandevuListesi.resources
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterDetay.resources
+C:\Users\ElifSilaTas\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterGiris.resources
